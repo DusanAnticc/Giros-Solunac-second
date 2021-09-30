@@ -1,0 +1,54 @@
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.exe.config
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.exe
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.pdb
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Form1.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Properties.Resources.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SveOsim.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csproj.GenerateResource.cache
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.exe
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.pdb
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Note.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.OstaliZacini.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.PomfritNumber.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SecondScreen.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SettingsForm.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.OrderSize.resources
+C:\Users\Dusan\source\repos\fastfoodsolunacnew\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.telefonskaNarudzba.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.exe.config
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.exe
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.pdb
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Form1.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Note.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.OstaliZacini.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.PomfritNumber.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Properties.Resources.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SecondScreen.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SettingsForm.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SveOsim.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.OrderSize.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.telefonskaNarudzba.resources
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csproj.GenerateResource.cache
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.exe
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.pdb
+C:\Users\Dusan\source\repos\solunacFinal\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.exe.config
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.exe
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\bin\Release\fastfoodsolunacnew.pdb
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Form1.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Note.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.OstaliZacini.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.PomfritNumber.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.Properties.Resources.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SecondScreen.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SettingsForm.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.SveOsim.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.OrderSize.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.telefonskaNarudzba.resources
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csproj.GenerateResource.cache
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.exe
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.pdb
+C:\Users\Dusan\source\repos\solunac drugi racunar\fastfoodsolunacnew\obj\Release\fastfoodsolunacnew.csprojAssemblyReference.cache

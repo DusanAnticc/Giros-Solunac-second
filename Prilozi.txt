@@ -1,0 +1,18 @@
+Caciki Sos;SOS;1;Caciki
+Pomfrit;POM;1;Pomfrit
+Cili Sos;C;1;Cili
+Paradajz;PAR;1;Paradajz
+Luk;LUK;1;Luk
+Zelena salata;Z;1;Zel.Sal
+Ljubicasti kupus;LJ;1;Ljub.Kup
+Krastavac;KR;1;Krastavac
+Kupus;KUP;1;Kupus
+Pavlaka;PAV;2;Pavlaka
+Kecap;KEC;2;Kecap
+Majoneza;MAJ;2;Majoneza
+Senf;SENF;2;Senf
+Origano;ORIG;3;Origano
+Vegeta;VEG;3;Vegeta
+Biber;BIB;3;Biber
+Tucana paprika;TUC;3;Tuc.Pap
+So;SO;3;So
